@@ -1,0 +1,54 @@
+$(document).ready(function(){
+
+$("#btn-input").trigger("focus");
+
+
+$('#btn-input').keypress(function (e) {
+  var key = e.which;
+  if(key == 13)  // the enter key code
+  {
+    $('#btn-chat').click();
+    return false;  
+  }
+});
+
+
+var data_table = $("#meet-table:first");
+data_table.css("visibility", "visible");
+$("#btn-chat").on("click", function() {
+	var input = $("#btn-input");
+	var utterance = $.trim(input.val());
+	if (utterance !== "") {
+		var user_node = $("ul.chat li.left.clearfix:first").clone();
+		user_node.find('p').text(utterance);
+		user_node.css('display', 'block');
+		$("ul.chat").append(user_node);
+
+		$.get("/dialog",
+			{"utterance": utterance},
+			function(data) {
+				var user_node = $("ul.chat li.right.clearfix:first").clone();
+				user_node.find('p').text(data["sentence"]);
+				user_node.css('display', 'block');
+				$("ul.chat").append(user_node);
+				if (data["end"]) {
+					// 对话结束，那么展示表格
+					
+					for (key in data["slots"]) {
+						data_table.find("#" + key + ":first").text(data["slots"][key]);
+					}
+				}
+			},
+			"json"
+			);
+	}
+
+	// 滚动条到最下面
+	$(".panel-body").scrollTop($(".panel-body")[0].scrollHeight);
+
+	// 清空输入框
+	input.val('');
+	input.trigger("focus");
+});
+
+});

@@ -1,0 +1,87 @@
+user	:	与会人数大概50人左右，开会日期基本都在周日晚上7点钟
+agent:	初步定在周日开会，是吗？说一下您的大概的预算，方便我们为您推荐符合您要求的会议室。
+user	:	对
+agent:	50人的会议，对吗？您的预期价位是多少呢？
+user	:	对
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	dfdsf
+agent:	您的预期价位是多少呢？
+user	:	？？？？
+agent:	那您想要多少价位的会议室呢/
+user	:	？？？？
+agent:	您的预期价位是多少呢？
+user	:	dsfasdfas
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	dsfadsf
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	sdfsdf
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	s
+agent:	那您想要多少价位的会议室呢/
+user	:	df
+agent:	那您想要多少价位的会议室呢/
+user	:	sdf
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	df
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	s
+agent:	您的预期价位是多少呢？
+user	:	df
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	sd
+agent:	您的预期价位是多少呢？
+user	:	f
+agent:	您的预期价位是多少呢？
+user	:	sdf
+agent:	您的预期价位是多少呢？
+user	:	sdfds
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	f
+agent:	那您想要多少价位的会议室呢/
+user	:	sdf
+agent:	那您想要多少价位的会议室呢/
+user	:	s
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	df
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	sd
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	f
+agent:	您的预期价位是多少呢？
+user	:	sdf
+agent:	您的预期价位是多少呢？
+user	:	sd
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	fsdf
+agent:	您的预期价位是多少呢？
+user	:	sdf
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	sd
+agent:	您的预期价位是多少呢？
+user	:	f
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	sd
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	f
+agent:	那您想要多少价位的会议室呢/
+user	:	sdf
+agent:	您的预期价位是多少呢？
+user	:	s
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	df
+agent:	那您想要多少价位的会议室呢/
+user	:	sd
+agent:	然后您能说一下您有没有一个大概的预算呢？
+user	:	3000块，30人
+agent:	您的预期价位在3000块？您准备在哪里开会呢？
+user	:	北京，开三天
+agent:	在北京开3天的会议，对吗？
+user	:	对的
+agent:	谢谢合作,我们会尽快跟您联系的
+
+
+地点：!北京 
+人数：!50 
+日期：!周日 
+时长：!3天 
+预算：!3000块 

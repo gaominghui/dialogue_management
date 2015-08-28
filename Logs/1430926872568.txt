@@ -1,0 +1,41 @@
+user	:	你好
+agent:	您想要预订一个什么样的会议室呢？
+user	:	北京，十月三号
+agent:	开会时间定在十月三号,会议地点定在北京
+user	:	恩
+agent:	您谈到了会议地点,还有其他要补充的吗？比如与会人数。
+user	:	300人
+agent:	300人的会议，对吗？这是一个多长时间的会议呢？
+user	:	dfa
+agent:	您觉得会议开多长时间？您大概的预算是多少呢？
+user	:	asdfasdf
+agent:	这是一个多长时间的会议呢？
+user	:	asdfasdf
+agent:	您的会议预算和会议时长分别是多少呢？
+user	:	asdfasdf
+agent:	这是一个多长时间的会议呢？
+user	:	asdfasdf
+agent:	会议时长，会议预算您有一个大概的估计吗？
+user	:	asdfasdf
+agent:	这是一个多长时间的会议呢？
+user	:	adsfasdf
+agent:	会议时长，会议预算您有一个大概的估计吗？
+user	:	asdfasdf
+agent:	您估计会议要开多长时间？
+user	:	asdfasdf
+agent:	您的会议预算和会议时长分别是多少呢？
+user	:	safdasdfa
+agent:	这是一个多长时间的会议呢？
+user	:	几天
+agent:	会议要开几天时间,对吗？说一下您的大概的预算，方便我们为您推荐符合您要求的会议室。
+user	:	3000元
+agent:	您的预期价位在3000？
+user	:	恩
+agent:	预订成功，谢谢合作，我们会尽快跟您联系的。
+
+
+地点：!北京 
+人数：!300 
+日期：!十月三号 
+时长：!几天 
+预算：!3000元 

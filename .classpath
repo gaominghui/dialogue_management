@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/bsh.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/CRF.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/grmm-deps.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jdom-2.0.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jgrapht-0.6.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jwnl-1.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mtj-0.9.9.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/openjgraph.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/server.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/trove-2.0.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/trove.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>
